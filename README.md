@@ -26,7 +26,7 @@ https://shaco-f.github.io/Glider_simulation_web/
 
 ## Controls
 
-### Camera Movement
+### Keyboard Controls
 
 | Key | Function |
 |-----|----------|
@@ -36,6 +36,7 @@ https://shaco-f.github.io/Glider_simulation_web/
 | **D** | Move right |
 | **Space** | Move up |
 | **Alt** | Move down |
+| **Tab** | Change type of map |
 
 ### Mouse Controls
 
